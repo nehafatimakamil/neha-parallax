@@ -1,0 +1,18 @@
+[29/Oct/2019:16:15:28] (ℹ️): WordPress Instance Info:
+[29/Oct/2019:16:15:28] (ℹ️): Home URL : http://localhost/neha-parallax
+[29/Oct/2019:16:15:28] (ℹ️): Site URL : http://localhost/neha-parallax
+[29/Oct/2019:16:15:28] (ℹ️): WordPress Version : 5.2.4
+[29/Oct/2019:16:15:28] (ℹ️): Onboarding Version : 1.7.6
+[29/Oct/2019:16:15:28] (ℹ️): Multisite : No
+[29/Oct/2019:16:15:28] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.1.30
+[29/Oct/2019:16:15:28] (ℹ️): PHP Version : 7.1.30
+[29/Oct/2019:16:15:28] (ℹ️): HTTPS : No
+[29/Oct/2019:16:15:28] (ℹ️): PHP Max Execution Time : 300
+[29/Oct/2019:16:15:28] (ℹ️): PHP Max Input Vars : 1000
+[29/Oct/2019:16:15:28] (ℹ️): Max Upload Size : 8388608
+[29/Oct/2019:16:15:28] (ℹ️): Plugins:
+[29/Oct/2019:16:15:28] (ℹ️): [PLUGIN] Classic Editor : v1.5 (WordPress Contributors)
+[29/Oct/2019:16:15:28] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.4 (Takayuki Miyoshi)
+[29/Oct/2019:16:15:28] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.5 (ThemeIsle)
+[29/Oct/2019:16:15:28] (ℹ️): [PLUGIN] Parallax Image : v1.7 (Howard Ehrenberg)
+[29/Oct/2019:16:15:28] (ℹ️): [PLUGIN] Post SMTP : v2.0.6 (Yehuda Hassine)
